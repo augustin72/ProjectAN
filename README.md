@@ -32,7 +32,7 @@ _(To be updated with experiment results)_
 - Hugging Face Transformers
 - scikit-learn
 - pandas
-- lxml / BeautifulSoup for XML parsing
+- ElementTree 
 - Matplotlib / Seaborn
 
 ## 📚 Data & Resources
