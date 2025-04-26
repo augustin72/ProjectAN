@@ -33,7 +33,7 @@ _(To be updated with experiment results)_
 - scikit-learn
 - pandas
 - ElementTree 
-- Matplotlib / Seaborn
+- Matplotlib
 
 ## 📚 Data & Resources
 
